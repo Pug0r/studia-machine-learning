@@ -3,8 +3,8 @@
 ## Clustering - solved
 [notebook can be found here](clustering/clustering-exercises.ipynb) 
 Uploaded two days after deadline, but before publication of solution:)
-- ex1 :whitecheckmark: 
-- ex2 :whitecheckmark:
-- ex3 :whitecheckmark:
-- ex4 :whitecheckmark:
-- ex5 :whitecheckmark:
+- ex1 :white_check_mark: 
+- ex2 :white_check_mark:
+- ex3 :white_check_mark:
+- ex4 :white_check_mark:
+- ex5 :white_check_mark:
