@@ -1,0 +1,53 @@
+### Windows
+# Windows thumbnail cache files
+Thumbs.db
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+### Python & Virtual Environments ###
+.venv/
+venv/
+ENV/
+env/
+bin/
+lib/
+include/
+pip-selfcheck.json
+__pycache__/
+*.py[cod]
+*$py.class
+
+### Jupyter Notebooks ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+# Keep this if you want to ignore the hidden profile folders
+.ipython/
+
+### Scala & sbt ###
+target/
+project/target/
+project/project/
+.sbtserver/
+.bsp/
+.metals/
+.bloop/
+out/
+*.class
+*.jar
+*.swp
+
+### OS Specific ###
+.DS_Store
+Thumbs.db
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
