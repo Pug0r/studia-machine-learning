@@ -1,5 +1,13 @@
 # studia-machine-learning
 
+## Trees - solved
+[notebook](trees/trees-exercises.ipynb)
+- ex1 :white_check_mark: 
+- ex2 :white_check_mark:
+- ex3 :white_check_mark:
+- ex4 :white_check_mark:
+
+
 ## Linear - solved
 [notebook can be found here](linear/linear-solved.ipynb) 
 - ex1 :white_check_mark: 
