@@ -1,5 +1,10 @@
 # studia-machine-learning
 
+## SVM - solved
+[notebook](svm/svm-exercises.ipynb)
+- ex1 :white_check_mark: 
+- ex2 :white_check_mark:
+
 ## Trees - solved
 [notebook](trees/trees-exercises.ipynb)
 - ex1 :white_check_mark: 
